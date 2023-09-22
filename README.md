@@ -2,7 +2,7 @@
 Scales
 ======
 
-In this project you will create a function that simulates a scale and then use nested loops to make a pattern of scales. The particular type of scale you simulate is up to you. Reptiles, fish, armor, mermaids and dragons are all examples of things with scales. You may find [Processing and Loops Primer slide presentation](https://docs.google.com/presentation/d/1eEbV3eorAtcCyloQ5HDAdni8osPe3aoLStDc1YHlMpY/edit#slide=id.gee8fb69aa2_20_120) helpful in completing this assignment.   
+In this project you will create a function that simulates a scale and then use nested loops to make a pattern of scales. The particular type of scale you simulate is up to you. Reptiles, fish, armor, mermaids and dragons are all examples of things with scales. You may find [Processing and Loops Primer slide presentation](https://docs.google.com/presentation/d/1eEbV3eorAtcCyloQ5HDAdni8osPe3aoLStDc1YHlMpY/edit#slide=id.gf03a2a5c83_1_0) helpful in completing this assignment.   
 
 Program Requirements
 --------------------
