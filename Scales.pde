@@ -35,7 +35,7 @@ void draw() {
       scale(x*mult+off, y*mult+off);  // draw shapes in rows and cols
     }
   }
-for (int x = 0; x < cols; x++) {    // x coordinate for rows loop
+  for (int x = 0; x < cols; x++) {    // x coordinate for rows loop
     for (int y = 0; y < rows; y++) {  // y coordinate for cols loop
       scale(x*mult, y*mult);  // draw shapes in rows and cols
     }
